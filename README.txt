@@ -2,7 +2,7 @@ Scripts used for extendedgastruloid project and manuscript 'Extended culture of 
 
 Most imaging analyses and figures were generated using MATLAB version 2023b. 
 
-Single cell RNA sequencing and part of the segmentations were done with python packages.
+Single cell RNA sequencing and cellpose (v1) segmentations were done with python packages.
 
 To set up the path of your MATLAB scripts as this repository, run the 'setup.m' script in the main folder.
 
